@@ -25,7 +25,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/lkdn-alperarinc-blue)](https://www.linkedin.com/in/alper-arinc)
 
-## Social Media
+## Blog
 
 tr blog-> https://t.co/7M7VeRdWK0
 
