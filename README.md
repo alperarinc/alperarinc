@@ -13,7 +13,7 @@
 
 
 
-[JAVA](https://static.javatpoint.com/core/images/java-logo3.png)
+![JAVA](https://static.javatpoint.com/core/images/java-logo3.png)
 
 ## 📚 My Medium Account
 
