@@ -13,7 +13,7 @@
 
 
 
-![JAVA](![image]([https://user-images.githubusercontent.com/58120485/176124346-027baf80-1198-4496-8a55-49e730a1a7e6.png]))
+
 
 ## 📚 My Medium Account
 
