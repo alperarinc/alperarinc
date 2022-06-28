@@ -13,7 +13,7 @@
 
 
 
-![JAVA](![image](https://user-images.githubusercontent.com/58120485/176124346-027baf80-1198-4496-8a55-49e730a1a7e6.png))
+![JAVA](![image]([https://user-images.githubusercontent.com/58120485/176124346-027baf80-1198-4496-8a55-49e730a1a7e6.png](https://www.flaticon.com/premium-icon/java_3291697?term=java&related_id=3291697)))
 
 ## 📚 My Medium Account
 
