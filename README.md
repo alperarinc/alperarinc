@@ -27,7 +27,7 @@
 
 ## Blog
 
-tr blog-> https://t.co/7M7VeRdWK0
+Medium Blog ==> https://t.co/7M7VeRdWK0
 
 
 <!--
