@@ -1,6 +1,6 @@
 ### Heyy Lady and Gentlemen 👋
 
-
+<div align="center">
 ## 📌 GitHub Stats And Top Languages
 
 <p float="center">
@@ -44,3 +44,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
