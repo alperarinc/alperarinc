@@ -25,10 +25,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/lkdn-alperarinc-blue)](https://www.linkedin.com/in/alper-arinc)
 
-## Blog
-
-Medium Blog ==> https://t.co/7M7VeRdWK0
-
 
 <!--
 **alperarinc/alperarinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
