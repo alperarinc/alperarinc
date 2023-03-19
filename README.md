@@ -1,5 +1,3 @@
-### Heyy Lady and Gentlemen 👋
-
 <div align="center">
 ## 📌 GitHub Stats And Top Languages
 
@@ -7,14 +5,6 @@
   <img  src="https://github-readme-stats.vercel.app/api?username=alperarinc&show_icons=true&count_private=true&hide=contribs,issues" alt="alperarinc's github stats" />
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperarinc&layout=compact&hide=html,css" alt="My Top Langs" />
 </p>
-
-
-## 📚 Learning & Interested
-
-
-
-
-
 ## 📚 My Medium Account
 
 [@alperarinc ](https://medium.com/@alperarinc)
