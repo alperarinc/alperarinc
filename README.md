@@ -2,7 +2,7 @@
 
 # 👋 Merhaba, ben Alper Arinç
 
-### DevOps Specialist & Software Engineer
+### DevOps Engineer
 
 Fintech altyapısında Kubernetes tabanlı CI/CD pipeline'ları yönetiyor, paralel olarak Türkiye pazarına yönelik SaaS ürünleri geliştiriyorum.
 
