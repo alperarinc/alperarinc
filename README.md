@@ -55,14 +55,7 @@ Sunucular, uygulamalar, kurumlar ve network topolojisini yöneten kurumsal envan
 ## 💼 Deneyim
 
 ### 🏢 İnfina Yazılım A.Ş. — DevOps Specialist & Software Engineer · 2022 — Günümüz
-**Fintech** sektöründe Infleks ürün ailesinin (trade, operasyon, varlık, boapi, e-şube, e-fatura, e-defter) DevOps süreçlerini yönetiyorum.
-
-- Jenkins freestyle job'larının declarative pipeline'lara migration'ı (5+ ürün)
-- WildFly 36 HA cluster deployment (JGroups TCP/TCPPING, Docker)
-- 3 node Kafka KRaft cluster kurulumu ve OPS_-prefixed financial event topic yönetimi
-- Trivy ile container CVE remediation, SonarQube quality gate entegrasyonları
-- Multi-channel alerting servisi (Kafka/file log → email/Slack/Teams)
-- İşbank ICR (`icr.isbank.com.tr`) registry deployment pipeline'ları
+**Fintech** sektöründe Infleks ürün ailesinin DevOps süreçlerini yönetiyorum.
 
 ### 🔬 Ultralab Tanı / Güven Medikal / Zeymed Medikal — IT Manager · 2020 — 2022
 3 medikal kuruluşun IT altyapısının sıfırdan inşası, yedekleme ve replikasyon stratejileri, domain yapılandırması.
